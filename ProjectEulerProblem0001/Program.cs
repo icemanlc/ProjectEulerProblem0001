@@ -20,7 +20,6 @@ namespace ProjectEulerProblem0001
         /// <returns></returns>
         static int SolveProjectEulerProblem001()
         {
-
             int sum = 0;
             for (int i = 0; i < 1000; i++)
             {
